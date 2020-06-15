@@ -1,4 +1,5 @@
 require "rom"
+require "rom/sql"
 
 module Persistence
   def self.config
